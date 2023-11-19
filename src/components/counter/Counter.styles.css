@@ -1,0 +1,21 @@
+#counter_body {
+    height: 500px;
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.counter_btn {
+    font-size: 3rem;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin: 0px 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 20%;
+}
